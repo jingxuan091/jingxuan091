@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jingxuan Zhu</h1>
 <h3 align="center">A passionate data scientist living in UK.</h3>
 
-- 🔭 I’m currently working to **improve my skills on machine learning, deep learning, SQL and MLOps.**
+- 🔭 I’m currently working to **improve my skills on machine learning, deep learning, data base and MLOps.**
 
 - 👯 🌱 My bootcamp project: [Shopping for players: a ML model to predict transfer value of football players.](https://jingxuan091-shopping-for-players-app-v3-mrr1tz.streamlit.app/)
 
