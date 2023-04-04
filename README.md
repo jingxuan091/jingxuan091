@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/fq1v7eb3p7](https://flowcv.com/resume/fq1v7eb3p7)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Language and tools:</h3>
 <p align="left">
 </p>
 
