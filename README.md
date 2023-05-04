@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jingxuan Zhu</h1>
-<h3 align="center">A passionate data engineer.</h3>
 
 - 🔭 I’m currently working to **improve my skills on machine learning, deep learning, data base and MLOps.**
 
