@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jingxuan Zhu</h1>
 
-- 🔭 I’m currently working to **improve my skills on machine learning, deep learning, data base and MLOps.**
+- 🔭 I’m currently working to **improve my data science skills.**
 
-- 👯 🌱 My bootcamp project: [Shopping for players: a ML model to predict transfer value of football players.](https://jingxuan091-shopping-for-players-app-v3-mrr1tz.streamlit.app/)
+- 👯 🌱 Project: [Shopping for players: a ML model to predict transfer value of football players.](https://jingxuan091-shopping-for-players-app-v3-mrr1tz.streamlit.app/)
 
 - 📫 How to reach me **jingxuan091@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/fq1v7eb3p7](https://flowcv.com/resume/fq1v7eb3p7)
 
 <h3 align="left">Language and tools:</h3>
 <p align="left">
