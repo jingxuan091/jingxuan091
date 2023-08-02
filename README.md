@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jingxuan Zhu</h1>
 
-- 🔭 I’m currently working to **improve my data science skills.**
-
-- 👯 🌱 Project: [Shopping for players: a ML model to predict transfer value of football players.](https://jingxuan091-shopping-for-players-app-v3-mrr1tz.streamlit.app/)
+- 🔭 I’m currently working to **improve my data engineering skills.**
 
 - 📫 How to reach me **jingxuan091@gmail.com**
 
