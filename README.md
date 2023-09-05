@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jingxuan Zhu</h1>
 
-- 🔭 I’m currently working to **improve my data engineering skills.**
+- 🔭 I’m currently working on **data engineering.**
 
 - 📫 How to reach me **jingxuan091@gmail.com**
 
