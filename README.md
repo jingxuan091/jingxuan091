@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jingxuan Zhu</h1>
 
-- 🔭 I’m interested in **data.**
+- 🔭 I’m interested in **data science & engineering.**
 
 - 📫 How to reach me **jingxuan091@gmail.com**
 
