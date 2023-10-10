@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jingxuan Zhu</h1>
 
-- 🔭 Here are some of my data and ML projects in the repository.**
+- 🔭 Here are some of my data and ML projects. Please find them in the repository.
 
 - 📫 How to reach me **jingxuan091@gmail.com**
 
