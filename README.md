@@ -9,6 +9,7 @@
      - [Data engineering with Microsoft Azure](https://graduation.udacity.com/confirm/e/756869fc-197b-11ee-809e-4b12df9c1175)
      - [DataSci.322: Data Exploration and Visualization](https://courses.edx.org/certificates/7f3b6017664d4d5bbaa50291b0b013dd?_gl=1*3433wo*_ga*OTYxNDA1MDQuMTY5NTkxMjkzNg..*_ga_D3KS4KMDT0*MTY5NjkzNDM3MC41LjEuMTY5NjkzNDM3Ni41NC4wLjA.)
      - [DataSci.301: Probability and Simulation-Based Inference](https://courses.edx.org/certificates/baf7e4f86dd04ef2b003765fe70af379?_gl=1*wa2km7*_ga*OTYxNDA1MDQuMTY5NTkxMjkzNg..*_ga_D3KS4KMDT0*MTY5NjkzNDM3MC41LjEuMTY5NjkzNDM3Ni41NC4wLjA.)
+     - [Power BI Fundamentals Track](https://www.datacamp.com/statement-of-accomplishment/track/cd50afd39b7030e27eb00f9cda92e3993a0d28f8?raw=1)
 
 <h3 align="left">Language and tools:</h3>
 <p align="left">
