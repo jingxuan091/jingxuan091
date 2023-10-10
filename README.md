@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jingxuan Zhu</h1>
 
-- 🔭 I’m interested in **data science & data engineering.**
+- 🔭 I’m interested in **data science & data engineering. Please find my side projects in the repository.**
 
 - 📫 How to reach me **jingxuan091@gmail.com**
 
