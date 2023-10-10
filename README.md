@@ -4,7 +4,8 @@
 
 - 📫 How to reach me **jingxuan091@gmail.com**
 
-- 📫 Machine learning specialization **https://coursera.org/share/0a0cf41bb508b915d2c7783201e9c2c2**
+- 📫 Certificates:
+     [Machine learning specialization](https://coursera.org/share/0a0cf41bb508b915d2c7783201e9c2c2)
 
 <h3 align="left">Language and tools:</h3>
 <p align="left">
