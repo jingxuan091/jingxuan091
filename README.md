@@ -7,6 +7,7 @@
 - 📫 Certificates:
      - [Machine learning specialization](https://coursera.org/share/0a0cf41bb508b915d2c7783201e9c2c2)
      - [Data engineering with Microsoft Azure](https://graduation.udacity.com/confirm/e/756869fc-197b-11ee-809e-4b12df9c1175)
+     - [DataSci.322: Data Exploration and Visualization](https://courses.edx.org/certificates/7f3b6017664d4d5bbaa50291b0b013dd?_gl=1*3433wo*_ga*OTYxNDA1MDQuMTY5NTkxMjkzNg..*_ga_D3KS4KMDT0*MTY5NjkzNDM3MC41LjEuMTY5NjkzNDM3Ni41NC4wLjA.)
 
 <h3 align="left">Language and tools:</h3>
 <p align="left">
