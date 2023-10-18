@@ -5,6 +5,9 @@
 - 📫 How to reach me **jingxuan091@gmail.com**
 
 - 📫 Certificates:
+  - [Microsoft Certified: Azure Data Engineer Associate]([https://coursera.org/share/0a0cf41bb508b915d2c7783201e9c2c2](https://learn.microsoft.com/api/credentials/share/en-gb/JingxuanZhu-9254/602D1CD036C0AF3F?sharingId=1E9231B97639D8A2))
+
+- 📫 Completed courses:
      - [Machine learning specialization](https://coursera.org/share/0a0cf41bb508b915d2c7783201e9c2c2)
      - [Data engineering with Microsoft Azure](https://graduation.udacity.com/confirm/e/756869fc-197b-11ee-809e-4b12df9c1175)
      - [DataSci.322: Data Exploration and Visualization](https://courses.edx.org/certificates/7f3b6017664d4d5bbaa50291b0b013dd?_gl=1*3433wo*_ga*OTYxNDA1MDQuMTY5NTkxMjkzNg..*_ga_D3KS4KMDT0*MTY5NjkzNDM3MC41LjEuMTY5NjkzNDM3Ni41NC4wLjA.)
