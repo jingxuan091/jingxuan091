@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jingxuan Zhu</h1>
+<h1 align="center">Hi 👋 </h1>
 
 - 🔭 Here are some of my data and ML projects. Please find them in the repository.
 
-- 📫 How to reach me **jingxuan091@gmail.com**
 
 - 📫 Certificates:
   - [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/JingxuanZhu-9254/602D1CD036C0AF3F?sharingId=1E9231B97639D8A2)
