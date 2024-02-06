@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 </h1>
+<h1 align="center">Welcome 👋 </h1>
 
 - 🔭 Here are some of my data and ML projects. Please find them in the repository.
 
