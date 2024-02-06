@@ -1,4 +1,4 @@
-<h1 align="center">Hi, this is Jingxuan Zhu 👋 </h1>
+
 
 - 🔭 Here are some of my data and ML projects. Please find them in the repository.
 
